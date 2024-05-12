@@ -1,0 +1,19 @@
+ID,Description,People,Date,TAG,STATUS
+0001,Update schedule,"John E, Maggie S, Mark L. William D",02/04/2024,"#SCHEDULE #PLANNING",Completed
+0002,Order items for office,John E. Mark L,02/04/2024,"#ORDER #OFFICE #AMAZON",Processing
+0003,Install software,Simon A. William D,02/04/2024,#SOFTWARE,Rejected
+0004,Meeting 9:00 with client,Rosie P,01/04/2024,"#MEETING #CLIENT",Completed
+0005,Prepare for meeting,Rosie P,01/04/2024,#MEETING,Processing
+0006,Update schedule,"Alfred M, John E",01/04/2024,"#SCHEDULE #PLANNING",Completed
+0007,Plan changes,"Rosie P, William D",01/04/2024,#PLANNING,Processing
+0008,Meeting 13:00 with client,Simon A,01/04/2024,"#MEETING #CLIENT",On-hold
+0009,Debug version 1.2.1.11,"Maggie S, John E, Mark L",01/04/2024,"#DEBUG #1.2.1.11",In Transit
+0010,Update schedule,"John E, Maggie S, Mark L. William D",02/04/2024,"#SCHEDULE, #PLANNING",Completed
+0011,Order items for office,John E. Mark L,02/04/2024,"#ORDER #OFFICE #AMAZON",Processing
+0012,Install software,Simon A. William D,02/04/2024,#SOFTWARE,Rejected
+0013,Meeting 9:00 with client,Rosie P,01/04/2024,"#MEETING #CLIENT",Completed
+0014,Prepare for meeting,Rosie P,01/04/2024,#MEETING,Processing
+0015,Update schedule,"Alfred M, John E",01/04/2024,"#SCHEDULE #PLANNING",Completed
+0016,Plan changes,"Rosie P, William D",01/04/2024,#PLANNING,Processing
+0017,Meeting 13:00 with client,Simon A,01/04/2024,"#MEETING #CLIENT",On-hold
+0018,Debug version 1.2.1.11,"Maggie S, John E, Mark L",01/04/2024,"#DEBUG #1.2.1.11",In Transit
